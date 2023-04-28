@@ -1,3 +1,5 @@
+![head](header.png)
+
 # Predicting Song Popularity with the Spotify API
 ### Mara Hubelbank — DS4400 Course Project
 
