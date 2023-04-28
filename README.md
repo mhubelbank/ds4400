@@ -1,5 +1,5 @@
-#Predicting Song Popularity with the Spotify API
-###Mara Hubelbank — DS4400 Course Project
+# Predicting Song Popularity with the Spotify API
+### Mara Hubelbank — DS4400 Course Project
 
 To view the Jupyter Notebook report, please see report.pdf.
 
