@@ -1,9 +1,7 @@
 # Predicting Song Popularity with the Spotify API
 ### Mara Hubelbank — DS4400 Course Project
 
-To view the Jupyter Notebook report, please see report.pdf.
-
-To run the code, download src.ipynb. If applicable, uncomment the `!pip install` lines and run. Then, run the rest of the notebook.
+To view the Jupyter Notebook, please see src.ipynb. If running the source code, uncomment the `!pip install` lines.
 
 ## Abstract
 This project explores the Spotify API’s [track audio features endpoint](https://developer.spotify.com/documentation/web-api/reference/get-audio-features), which yields song information such as tempo, danceability, and popularity. Pre-scraped data is sourced from a similar project on GitHub by user [@DorAzaria](https://raw.githubusercontent.com/DorAzaria/Spotify-Machine-Learning-Project/main/data.csv), with ~170k samples scraped in January 2022. Exploratory data analysis is conducted over the audio features, visualizing each features’ distribution and time series. Then, approaches within binary classification and multi-class classification are used to attempt to predict song popularity. For this task, we obtain a maximum accuracy of 0.83 and F1 score of 0.71 with a Random Forest binary classification model.
